@@ -6,7 +6,7 @@ It contains schematics, KiCad schematic and PCB layout files, and production fil
 or concerns, please post a Github issue here, or contact us at [anyleaf@anyleaf.org](mailto:anyleaf@anyleaf.org).
 
 For info on specific parts chosen, including part numbers at Digikey and LCSC, open
-the schematic files in KiCad[https://www.kicad.org/], and examine part properties.
+the schematic files in [KiCad](https://www.kicad.org/), and examine part properties.
 
 ## [ExpressLRS home page](https://www.expresslrs.org/3.0/)
 
