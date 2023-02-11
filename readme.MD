@@ -13,7 +13,7 @@ Images of the schematics are provided as PNG files in the main repo; this is the
 way to view the schematics.
 
 To view details, including PCB layouts, open the schematic and/or PCB files in 
-[KiCad](https://www.kicad.org/)
+[KiCad](https://www.kicad.org/).
 
 For info on specific parts chosen, including part numbers at Digikey and LCSC, open
 the schematic files in KiCad, and examine part properties.
