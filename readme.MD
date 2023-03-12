@@ -18,6 +18,8 @@ To view details, including PCB layouts, open the schematic and/or PCB files in
 For info on specific parts chosen, including part numbers at Digikey and LCSC, open
 the schematic files in KiCad, and examine part properties.
 
+All parts are on the same side of the PCB. Resistors and capacitors are *0402* size.
+
 ## [ExpressLRS home page](https://www.expresslrs.org/3.0/)
 
 ## [ExpressLRS hardware repo](https://github.com/ExpressLRS/ExpressLRS-Hardware)
