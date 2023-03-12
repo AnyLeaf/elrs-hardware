@@ -6,8 +6,8 @@ It contains schematics, KiCad schematic and PCB layout files, and production fil
 or concerns, please post a Github issue here, or contact us at [anyleaf@anyleaf.org](mailto:anyleaf@anyleaf.org).
 
 ## This repo contains 2 designs:
-- Single radio (SX1280), with ESP8285 MCU, and SkyWorks LNA/PA/antenna mux
-- Dual radio (SX1280), with ESP32-PICO-V3 MCU, and AT2401C LNA/PAs.
+- Single radio (SX1280), with ESP8285 MCU, and SkyWorks SE2431 LNA/PA/antenna mux.
+- Dual radio (SX1280), with ESP32-PICO-V3 MCU, and SkyWorks RFX2401C LNA/PAs.
 
 Images of the schematics are provided as PNG files in the main repo; this is the easiest
 way to view the schematics.
